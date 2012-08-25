@@ -5,7 +5,6 @@ Numeric Diamonds
 Make some pretty diamonds for us.
 */
 
-
 //unsolved
 /*
 $inHeight = '10';
