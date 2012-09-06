@@ -9,7 +9,7 @@ What is the smallest positive number that is evenly divisible by all of the numb
 $inputNumber = 20;
 
 function GetFactors($number) {
-
+//get PRIME factors (to a power)
 	$factors = array();
 
 	for ($i=2; $i <= $number; $i++) { 
